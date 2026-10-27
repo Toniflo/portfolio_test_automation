@@ -1,6 +1,6 @@
 # In this file, we shall declare all the contants and variables that do not change. 
-TEST_URL = "https://sangwa-java-apps.github.io/collabo_assignment/"
-DYNAMIC_DEFAULT_URL = "https://sangwa-java-apps.github.io/collabo_assignment/"
+TEST_URL = "https://toniflo.github.io/devops-assignment/"
+DYNAMIC_DEFAULT_URL = "https://toniflo.github.io/devops-assignment/"
 ABOUT_TEXT = "ABOUT"
 PORTFOLIO_DETAILS_TEXT = "Portfolio Details"
 PORTFOLIO_TEXT = "PORTFOLIO"
