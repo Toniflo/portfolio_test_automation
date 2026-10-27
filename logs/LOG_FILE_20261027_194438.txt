@@ -1,0 +1,36 @@
+TIMESTAMP: 2026-10-27 19:44:38
+LEVEL: ERROR
+TEST ID: TC-02
+WHAT WAS TESTED: Click "PORTFOLIO" in the main menu
+EXPECTED RESULT: URL is https://toniflo.github.io/devops-assignment/portfolio.html
+ACTUAL RESULT: URL is https://toniflo.github.io/devops-assignment/
+STATUS: FAIL
+DURATION: 0.4 s
+RUN SUMMARY:
+    Page title: My Portfolio: Insert name here
+    URL: https://toniflo.github.io/devops-assignment/
+    Browser and version: chrome 156.0.8078.48
+    Error message: Message: no such element: Unable to locate element: {"method":"link text","selector":"PORTFOLIO"}
+  (Session info: chrome=156.0.8078.48); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	(No symbol) [0x7ff678693f45]
+	(No symbol) [0x7ff678594f90]
+	(No symbol) [0x7ff678412c53]
+	(No symbol) [0x7ff678c652d1]
+	(No symbol) [0x7ff678c6552c]
+	(No symbol) [0x7ff678c930e7]
+	(No symbol) [0x7ff6784425d1]
+	(No symbol) [0x7ff678427cb9]
+	(No symbol) [0x7ff678428ff3]
+	(No symbol) [0x7ff678b4e1a1]
+	(No symbol) [0x7ff678b7181b]
+	(No symbol) [0x7ff678b67ece]
+	(No symbol) [0x7ff6787bb10e]
+	(No symbol) [0x7ff6785a3db5]
+	(No symbol) [0x7ff67859e694]
+	(No symbol) [0x7ff67859e824]
+	(No symbol) [0x7ff678586bdc]
+	(No symbol) [0x7ffac5847374]
+	(No symbol) [0x7ffac5e9cc91]
+----------------------------------------
